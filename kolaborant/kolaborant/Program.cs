@@ -12,7 +12,9 @@ namespace kolaborant
         {
             Console.WriteLine("zajebisty w pyte szef");
 
-            Console.WriteLine("zajebisty w pyte pracownik");
+            Console.WriteLine("zajebisty w pyte pracownik")
+
+            Console.WriteLine("ogolnie jestesmy zajebisci, bo nam wychodzi:)")
         }
     }
 }
