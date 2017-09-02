@@ -10,9 +10,9 @@ namespace kolaborant
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("test");
+            Console.WriteLine("zajebisty szef");
 
-            Console.WriteLine("oko");
+            Console.WriteLine("zajebisty pracownik");
         }
     }
 }
