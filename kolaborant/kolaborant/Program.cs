@@ -10,7 +10,7 @@ namespace kolaborant
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("zajebisty w pyte szef");
+            Console.WriteLine("szef1");
 
             Console.WriteLine("zajebisty w pyte pracownik");
         }
