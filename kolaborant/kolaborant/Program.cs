@@ -12,7 +12,7 @@ namespace kolaborant
         {
             Console.WriteLine("test");
 
-            Console.WriteLine('oko');
+            Console.WriteLine("oko");
         }
     }
 }
